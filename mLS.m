@@ -19,16 +19,16 @@
 % beta values are given as input parameters.
 
 % The power-law distribution can be captured in both cumulative and 
-% non-cumulative FADs, and the power-law exponent (?) for a non-cumulative 
-% FAD can be transferred to its cumulative equivalent, ?, using the relation 
-% ?=?-1 (Guzzetti et al., 2002). In this code, the calculations are carried 
+% non-cumulative FADs, and the power-law exponent (beta) for a non-cumulative 
+% FAD can be transferred to its cumulative equivalent, alpha, using the relation 
+% alpha=beta-1 (Guzzetti et al., 2002). In this code, the calculations are carried 
 % out on the non-cumulative FAD.
 
 % The cutoff is the landslide size where frequency-size distribution curve
 % diverges form the power-law. In this code its unit is meter square.
 
 % Beta value resfers to the slope of the frequency-size distribution. It also
-% called as power-law exponent (scaling parameter, ?). For most landslide
+% called as power-law exponent (scaling parameter, beta). For most landslide
 % inventories, non-cumulative power-law exponents occur in the range of 
 % 1.4–3.4, with a central tendency of 2.3–2.5 (Stark and Guzzetti, 2009;
 % Van Den Eeckhaut et al., 2007).
